@@ -1,0 +1,1 @@
+DOMAIN = "donetick_custom"
